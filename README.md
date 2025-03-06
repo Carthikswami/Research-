@@ -3,7 +3,7 @@ Sustainable energy &amp; agrivoltaics research: LASSO competition (UW MARS), Wor
 
 1. **Agrivoltaics in India: A Case Study for Global Sustainable Development**  
    (accepted at World Agrivoltaics Conference, 2023)  
-   [Link to Full Text](./Agrivoltaics_Case_Study.pdf)
+   [Link to Full Text](./Agrivoltaics in India_ A Case Study for Global Sustainable Development.pdf).
 
 2. **Smart Building Technologies Integrating IoT and BIPV for Energy-Positive Construction**  
-   [Link to Full Text](./Smart_Building_Technologies.pdf)
+   [Link to Full Text](./Smart Building Technologies Enhancing Sustainable Growth in the Global Construction Industry.pdf).
